@@ -3,7 +3,7 @@
 **Document type:** Software Requirements Specification (SRS) + Product Requirements Document (PRD)
 **Version:** 1.0 | **Date:** 28 Oct 2026
 **Project type:** Major Project (Generative AI, MERN Stack)
-**Prepared by:** Anshitva Mishra | **Team:** G36
+**Prepared by:** Anshitva Mishra | **Team:** G26
 
 ---
 
